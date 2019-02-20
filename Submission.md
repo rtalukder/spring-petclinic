@@ -18,7 +18,7 @@ DePaul ID: 1361086
 ![POM File Commented](images/pom_updated_commented.PNG)
 
 - [5 pts] Your Travis CI dashboard showing the unsuccessful build after the breaking change. 
-![TravisCI - Failed Build](images/readme_travisCI_build_error.PNG)
+![TravisCI - Failed Build](images/travisCI_failed_build_dashboard.PNG)
 
 - [5 pts] Your Github repository with the readme.md file selected showing the build failed status after the Travis CI build fails. 
 ![ReadMe - Error State](images/readme_travisCI_build_error.PNG)
