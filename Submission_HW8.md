@@ -30,4 +30,4 @@ tainer when you run the application from the host system.
 - [5 pts] The output from the [docker-compose up](hw8_outputs/docker-compose_up_both.txt) command.
 
 - [5 pts] Your browser accessing the “Veterinarians” page of the website from your local container.
-[Dockerized Application Up](both_application_up.PNG)
+![Dockerized Application Up](images/both_application_up.PNG)
